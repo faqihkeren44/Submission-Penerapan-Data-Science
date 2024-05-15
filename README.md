@@ -7,7 +7,7 @@ Jumlah attrition rate yang tinggi
 ### Cakupan Proyek
 Membagi data menjadi kategorikal dan numerikal, dan mengidentifikasi data mana saja yang mempengaruhi attrition rate. Mencari faktor lain dengan menghubungkan data yang memiliki hubungan dengan attrition rate dengan data lainnya.
 ### Persiapan
-Sumber data: employee_data.csv
+Sumber data: employee_data.csv (https://github.com/faqihkeren44/Submission-Penerapan-Data-Science/blob/main/employee_data.csv)
 ## Business Dashboard
 Data pekerja Attrition dibedakan dengan warna biru untuk pekerja yang tidak keluar, dan warna oren untuk pekerja yang keluar. Jumlah data yang dipakai berjumlah 1058 pekerja (179 pekerja Attrition, 879 Not Attrition). Jumlah umur pekerja divisualisasikan menggunakan barchart dan ditarik garis agar lebih mudah melihat kenaikan/penurunannya. Pie chart menunjukkan perbandingan pekerja yang lembur (Pie Chart Overtime) dengan pekerja yang tidak lembur (Pie Chart Not Overtme). Perbandingan gaji perbulan pada box plot menunjukan adanya perbedaan yang cukup jauh. Line Chart Job Level menunjukan penurunan sesuai kesulitan pekerjaan, sedangkan jumlah Not Attrition lebih meningkat setiap meningkatnya Job Satisfaction. Yang terakhir yaitu jumlah pekerja setiap Job Role.
 Dashboard Link: https://public.tableau.com/app/profile/alif.khusain.bilfaqih/viz/Submission_1_17157904743680/Dashboard2?publish=yes
